@@ -1,0 +1,4 @@
+.DS_Store
+docker-volume
+command.txt
+docker-compose.yml
